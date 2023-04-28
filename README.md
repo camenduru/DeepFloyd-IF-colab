@@ -41,8 +41,7 @@ https://github.com/deep-floyd/IF/blob/main/LICENSE-MODEL
 a teddy bear looking curiously in the mirror, seeing a cat. 
 ![stage3-1](https://user-images.githubusercontent.com/54370274/235267830-44158274-804e-4717-9528-7c024f3644e4.png)
 
-modern digital portrait of antique statue of venus in bikini only in style of cyberpunk glitchcore synthwave art, award prize winning best art masterpiece, reddit top art of all time, trending on artstation, minimalism, neon lady woman, noir glitch 
-
+modern digital portrait of antique statue of venus in bikini only in style of cyberpunk glitchcore synthwave art, award prize winning best art masterpiece, reddit top art of all time, trending on artstation, minimalism, neon lady woman, noir glitch
 ![stage3-2](https://user-images.githubusercontent.com/54370274/235267832-62e940e2-3381-451f-923f-9f525b434cc7.png)
 
 photo of dark temple, golden treasure, high detail, smoke, sharp, fog 
