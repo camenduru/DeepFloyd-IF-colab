@@ -31,13 +31,13 @@ https://github.com/deep-floyd/IF/blob/main/LICENSE-MODEL
 
 
 ## Output
-### Stage I
+### Stage-I: 64px
 ![stage1](https://user-images.githubusercontent.com/54370274/235267686-bb20a748-077e-4d6d-9612-9dcb706d7f6f.png)
 
-### Stage II
+### Stage-II: 64px --> 256 px
 ![stage2](https://user-images.githubusercontent.com/54370274/235267689-1131d701-6719-4d16-85c0-70f2859d7e58.png)
 
-### Stage III
+### Stage-III: 256px --> 1024px
 a teddy bear looking curiously in the mirror, seeing a cat. 
 ![stage3-1](https://user-images.githubusercontent.com/54370274/235267830-44158274-804e-4717-9528-7c024f3644e4.png)
 
