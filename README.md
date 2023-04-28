@@ -7,6 +7,10 @@
 
 | Colab | Version
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DeepFloyd-IF-colab/blob/main/DeepFloyd-IF-I-M-v1.0.ipynb) | Pro Colab A100
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DeepFloyd-IF-colab/blob/main/DeepFloyd-IF-I-M-v1.0-Image.ipynb) | Free Colab T4 Image Gen
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DeepFloyd-IF-colab/blob/main/DeepFloyd-IF-I-M-v1.0-Image-Variation.ipynb) | Free Colab T4 Image Variation Gen
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DeepFloyd-IF-colab/blob/main/DeepFloyd-IF-I-M-v1.0-Inpainting.ipynb) | Free Colab T4 Inpainting
 
 ## Main Repo
 https://github.com/deep-floyd/IF
