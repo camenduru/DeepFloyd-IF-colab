@@ -20,6 +20,14 @@
 | --- | --- |
 [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/camenduru/deep-floyd-if-kaggle-ipynb)  | Free Colab T4 Image Gen (Core Lib)
 
+## Tutorial
+
+### Free Colab (T4)
+https://www.youtube.com/watch?v=4zglOVF0jSk
+
+### Pro Colab (A100)
+https://www.youtube.com/watch?v=KRcXonSwa50
+
 ## Main Repo
 https://github.com/deep-floyd/IF
 
