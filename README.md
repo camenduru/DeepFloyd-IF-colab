@@ -32,6 +32,9 @@ https://www.youtube.com/watch?v=KRcXonSwa50
 ## Main Repo
 https://github.com/deep-floyd/IF
 
+## Paper
+https://arxiv.org/abs/2205.11487
+
 ## Code License
 https://github.com/deep-floyd/IF/blob/main/LICENSE
 
